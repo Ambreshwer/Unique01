@@ -5,6 +5,9 @@ public class YClass {
 		// TODO Auto-generated method stub
 		
 		System.out.println(1);
+		System.out.println(1);
+		System.out.println(1);
+		System.out.println(1);
 
 	}
 
